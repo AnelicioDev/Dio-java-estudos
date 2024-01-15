@@ -6,6 +6,7 @@ public class Execao {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int idade;
+        double altura;
         String nome;
         try{
         System.out.println("Digite seu nome:");
