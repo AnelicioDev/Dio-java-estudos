@@ -1,3 +1,5 @@
+package src;
+
 public class Repeticao {
     String alunos[] = {"Carlos", "Breno", "Santos", "Maria"};
 

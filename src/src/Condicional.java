@@ -1,3 +1,5 @@
+package src;
+
 public class Condicional {
     
     public void Maior(int idade){
