@@ -8,16 +8,7 @@ public class App {
         Condicional condicao = new Condicional();
         Repeticao alunos = new Repeticao();
 
-        System.out.println("Qual sua idade?");
-        int idade = scanner.nextInt();
-
-        System.out.println("Qaual o número do aluno?");
-        int posicaoDoAluno = scanner.nextInt();
-
-        alunos.quantidadeDeAlubnos(posicaoDoAluno);
-
-        condicao.Maior(idade);
-
+       alunos.quantidadeDeAlubnos();
 
         scanner.close();
     }
