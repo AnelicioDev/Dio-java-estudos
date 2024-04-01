@@ -7,8 +7,11 @@ public class Condicional {
         if (idade >= 18) {
             System.out.println("Você é maior de idade");
         }else{
-            System.out.println("Você é menor de idade");
+            dados();
         }
        
+    }
+    void dados(){
+        System.out.println("Você é menor de idade");
     }
 }

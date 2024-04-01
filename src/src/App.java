@@ -7,6 +7,7 @@ public class App {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         Condicional condicao = new Condicional();
         Repeticao alunos = new Repeticao();
+        condicao.Maior(15);
 
        alunos.quantidadeDeAlubnos();
 

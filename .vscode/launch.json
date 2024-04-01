@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "src.App",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
+            "name": "Exercao",
+            "request": "launch",
+            "mainClass": "execao.Exercao",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
             "name": "VetorExercicio",
             "request": "launch",
             "mainClass": "vetores.exercicio.VetorExercicio",

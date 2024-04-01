@@ -1,4 +1,4 @@
-package Hranca.Entities;
+package Heranca.Entities;
 
 public class ContaDeNegocio extends Conta{
     private double limiteEmprestimo;

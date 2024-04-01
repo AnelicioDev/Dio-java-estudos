@@ -1,4 +1,4 @@
-package Hranca.Entities;
+package Heranca.Entities;
 
 public class Conta {
     private int numero;
@@ -30,8 +30,9 @@ public class Conta {
     public double getSaldoDaConta() {
         return saldoDaConta;
     }
+
     public void sacar(double valor){
-        saldoDaConta -= valor;
+        saldoDaConta -= valor + 5.0;
     }
     public void depositar(double valor){
         saldoDaConta += valor;

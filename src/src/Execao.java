@@ -10,6 +10,7 @@ public class Execao {
         int idade;
         double altura;
         String nome;
+        
         try{
         System.out.println("Digite seu nome:");
         nome = scanner.nextLine();

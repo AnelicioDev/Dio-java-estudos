@@ -1,4 +1,4 @@
-package Hranca.Entities;
+package Heranca.Entities;
 
 public class Poupanca extends Conta{
     private double taxaDeJurus;
@@ -16,5 +16,9 @@ public class Poupanca extends Conta{
     }
     public void atualizaSaldo(){
         saldoDaConta += saldoDaConta * taxaDeJurus;
+    }
+    @Override
+    public void sacar(double valor){
+        saldoDaConta -= valor;
     }
 }
