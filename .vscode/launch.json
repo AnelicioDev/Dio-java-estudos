@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ManipularPastas",
+            "request": "launch",
+            "mainClass": "arquivos.pastas.ManipularPastas",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
+            "name": "FileWriterExemplo",
+            "request": "launch",
+            "mainClass": "arquivos.FileWriterExemplo",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
+            "name": "ExemplFileEBufferedreader",
+            "request": "launch",
+            "mainClass": "arquivos.ExemplFileEBufferedreader",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "arquivos.Program",
+            "projectName": "Dio-java-estudos_d5fa093a"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "src.App",
