@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ListaEncadeadaTeste",
+            "request": "launch",
+            "mainClass": "listaEncadeada.ListaEncadeadaTeste",
+            "projectName": "Dio-java-estudos_c618a287"
+        },
+        {
+            "type": "java",
             "name": "Program",
             "request": "launch",
             "mainClass": "interfaceExemplo.Program",
