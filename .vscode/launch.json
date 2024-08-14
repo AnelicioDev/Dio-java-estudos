@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "set.OperacaoBasica.App",
+            "projectName": "Dio-java-estudos_e4184636"
+        },
+        {
+            "type": "java",
             "name": "ListaEncadeadaTeste",
             "request": "launch",
             "mainClass": "listaEncadeada.ListaEncadeadaTeste",
