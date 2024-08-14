@@ -12,6 +12,9 @@ public class App {
 
         c.removerConvidado(221);
 
+        System.out.println("Quantidade convidados " + c.contaConvidado());
+
         c.exibirConvidado();
+
     }
 }
