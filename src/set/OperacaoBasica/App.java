@@ -10,7 +10,7 @@ public class App {
         c.addConvidado("Maria", 221);
         c.addConvidado("Felipa", 225);
 
-        c.removerConvidado(221);
+        //c.removerConvidado(221);
 
         System.out.println("Quantidade convidados " + c.contaConvidado());
 
