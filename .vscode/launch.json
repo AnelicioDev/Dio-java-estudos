@@ -9,6 +9,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "set.Pesquisar.Main",
+            "projectName": "Dio-java-estudos_1f6d1264"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "set.Pesquisar.Main",
             "projectName": "Dio-java-estudos_e4184636"
         },
         {
